@@ -1,1 +1,1 @@
-Assignment: Implement simclr in pytorch and tensorflow
+## Assignment: Implement simclr in pytorch and tensorflow
