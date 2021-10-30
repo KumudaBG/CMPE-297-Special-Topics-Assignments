@@ -14,5 +14,5 @@ Semantic similarity [here](https://github.com/KumudaBG/CMPE-297-Special-Topics-A
 [reference](https://colab.research.google.com/github/keras-team/keras-io/blob/master/examples/nlp/ipynb/semantic_similarity_with_bert.ipynb)
 
 
-Question answering [here](PLACE LINK)
+Question answering [here](https://github.com/KumudaBG/CMPE-297-Special-Topics-Assignments/blob/main/Assignment3/Question_answering.ipynb)
 [reference](https://huggingface.co/transformers/custom_datasets.html?highlight=imdb#qa-squad)
